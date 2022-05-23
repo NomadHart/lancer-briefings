@@ -1,3 +1,4 @@
-WHERE'S BIO THO
+“What man doesn’t love a fuck’n explosion!”
+The biggest and most breathtaking destruction is what Rick strives for. Its only natural from what he says. Society builds things up from nothing, that is what most humans do with their lives. Rick, the antithesis to this engrained mindset since human’s dawn, knows only of the destruction of this very principle. Why you ask? Who knows? Rick doesn’t either, its simply a passion that spawned from some stray thought.
 
-## DOSSIER NOT FOUND
+With tendencies not fitting of a solder; Rick held a very brief enlistment with some patrol unit in some distant rim. In his words “rules and regulations” are for spineless superiors who only care about what other spineless people think. Wanting to get the job done in the quickest way possible was apparently “not fit for government work”. Realizing that mercenary work is far better suited to his needs he has moved to the greater rim.
