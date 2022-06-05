@@ -1,3 +1,1 @@
-LOL NO BIO HAVING ASS, LAAAAAAAAAAAAAAAAAAAAAAAAAAAAMEEEE
-
-## DOSSIER NOT FOUND
+Edira grew up on a resource rich world controlled by Holdman Global. She grew up poor, and enlisted with HG to earn a better life for her family. After the initial assessments revealed her potential as a Lancer, she was sent off world for the required training. When she returned to HG, she was given her first assignment: act as liaison for a newly formed mercenary group that would be sent to assist in "acquiring" Vastor. 
