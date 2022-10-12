@@ -114,7 +114,7 @@ export default {
           "code": "E4KDZP",
           "corpro": "SSC",
           "frame": "Swallowtail",
-          "mech": "Skimmer"
+          "mech": "Viral Inject"
         },
         {
           "callsign": "Unit",
@@ -122,7 +122,7 @@ export default {
           "code": "KIZE7G",
           "corpro": "Harrison Armory",
           "frame": "Barbarossa",
-          "mech": "And That's That"
+          "mech": "Barb Wire"
         },
         {
           "callsign": "Talker",
