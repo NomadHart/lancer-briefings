@@ -103,34 +103,34 @@ export default {
         {
           "callsign": "Journeyman",
           "alias": "Alexander Swallowtail",
-          "code": "UL6G63",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "code": "E4KDZP",
+          "corpro": "IPSN",
+          "frame": "Caliban",
           "mech": "We Will Meet Again"
         },
         {
           "callsign": "G0dC0mPl3x",
           "alias": "Ryota Lajos",
-          "code": "RM2BU6",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "code": "E4KDZP",
+          "corpro": "SSC",
+          "frame": "Swallowtail",
           "mech": "Skimmer"
         },
         {
           "callsign": "Unit",
           "alias": "Rick 'Lunchbox' Clocks",
-          "code": "8NIEEL",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
+          "code": "KIZE7G",
+          "corpro": "Harrison Armory",
+          "frame": "Barbarossa",
           "mech": "And That's That"
         },
         {
           "callsign": "Talker",
           "alias": "Neil H Patterson",
-          "code": "CHLD8V",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Drake Equation"
+          "code": "KIZE7G",
+          "corpro": "Horus",
+          "frame": "Pegasus",
+          "mech": "Broken Causality"
         },
       ],
       "header": {
