@@ -89,12 +89,12 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "002",
+          "slug": "003",
           "name": "Barbarians at the Gate",
           "status": "start"
         },
